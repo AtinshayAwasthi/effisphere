@@ -163,17 +163,7 @@ npm run dev
 npm run build
 ```
 
-## 👤 **Demo Credentials**
 
-### **Employee Access**
-- **Email**: sarah.johnson@effisphere.com
-- **Password**: employee123
-- **Features**: Personal dashboard, time tracking, location verification
-
-### **Admin Access**
-- **Email**: admin@effisphere.com
-- **Password**: admin123
-- **Features**: Full admin panel, employee management, analytics
 
 ## 🌟 **Key Differentiators**
 
